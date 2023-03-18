@@ -1,6 +1,7 @@
 # Laravel Code
 Setup
 - take clone
+- laravel key generate
 - Vite is used so please run
 ```sh
 npm install
@@ -31,7 +32,5 @@ localhost:8000/register
 ```
 
 to create account
-
-Thats it
 
 # laravel-task
